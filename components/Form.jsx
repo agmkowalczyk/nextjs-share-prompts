@@ -1,4 +1,4 @@
-import Link from "next/link"
+import Link from 'next/link'
 
 const Form = ({ type, post, setPost, submitting, handleSubmit }) => {
   return (
@@ -31,9 +31,9 @@ const Form = ({ type, post, setPost, submitting, handleSubmit }) => {
 
         <label>
           <span className='font-satoshi font-semibold text-base text-gray-700'>
-            Field of Prompt{" "}
+            Field of Prompt{' '}
             <span className='font-normal'>
-              (#product, #webdevelopment, #idea, etc.)
+              (product, webdevelopment, idea, etc.)
             </span>
           </span>
           <input
@@ -56,7 +56,7 @@ const Form = ({ type, post, setPost, submitting, handleSubmit }) => {
             disabled={submitting}
             className='px-5 py-1.5 text-sm bg-primary-orange rounded-full text-white'
           >
-            {submitting ? `${type}ing...` : type}
+            {submitting ? (type === 'Create' ? 'Creating' : 'Editing') : type}
           </button>
         </div>
       </form>
