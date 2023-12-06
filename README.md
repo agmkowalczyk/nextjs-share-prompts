@@ -1,3 +1,30 @@
+# NEXT.js Share Prompts
+
+## Description
+NEXT.js Share Prompts (Next, React, MongoDB, Mongoose, TailwindCSS)
+
+<p>
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="next.js">
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongoDB">
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind">
+</p>
+
+## Live Preview
+[Click here](https://nextjs-share-prompts-omega.vercel.app/)
+
+
+
+## Image
+
+![preview](https://github.com/agmkowalczyk/nextjs-share-prompts/blob/main/screen_nextjs-share-prompts1.png "NEXT.js Share Prompts")
+
+![preview](https://github.com/agmkowalczyk/nextjs-share-prompts/blob/main/screen_nextjs-share-prompts2.png "NEXT.js Share Prompts")
+
+\
+\
+\
+<br>
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
